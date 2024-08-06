@@ -1,0 +1,74 @@
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility log
+INFO: Program has started
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: Reading file: demodata.txt
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: New UBDTask created: A
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: New UBDTask created: B
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: New BDTask created: C
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: New UBDTask created: D
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: Subtask: D added to: C
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: New BDTask created: E
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: Subtask: E added to: C
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: New UBDTask created: F
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: Subtask: F added to: E
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: New UBDTask created: G
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: Subtask: G added to: E
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: New UBDTask created: H
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: New BDTask created: I
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: New BDTask created: J
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: Subtask: J added to: I
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: New BDTask created: K
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: Subtask: K added to: J
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: New BDTask created: L
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: Subtask: L added to: K
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: New UBDTask created: M
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: Subtask: M added to: L
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: New UBDTask created: N
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: Subtask: N added to: L
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: New BDTask created: O
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: New UBDTask created: P
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: Subtask: P added to: O
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: New UBDTask created: Q
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: Subtask: Q added to: O
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility log
+INFO: File read successfully
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility log
+INFO: Menu Displayed
+Apr 19, 2024 10:29:57 AM edu.curtin.app.Utility lambdaLog
+INFO: Reading integer between 1 and 4
+Apr 19, 2024 10:30:05 AM edu.curtin.app.Utility log
+INFO: Estimate Effort Chosen
+Apr 19, 2024 10:30:05 AM edu.curtin.app.Utility readString
+INFO: Reading string
+Apr 19, 2024 10:30:08 AM edu.curtin.app.Utility lambdaLog
+INFO: Task: C found!
+Apr 19, 2024 10:30:08 AM edu.curtin.app.Utility lambdaLog
+INFO: Reading integer between 0 and 2147483647
